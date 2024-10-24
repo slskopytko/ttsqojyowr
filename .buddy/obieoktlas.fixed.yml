@@ -1,0 +1,4 @@
+- pipeline: obieoktlas
+  refs:
+  - refs/heads/master
+  on: CLICK
